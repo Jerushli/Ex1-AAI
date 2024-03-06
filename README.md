@@ -1,5 +1,5 @@
-<H3> Name: AFSAR JUMAIL S </H3>
-<H3>Register No: 212222240004</H3>
+<H3> Name: JERUSHLIN JOSE JB </H3>
+<H3>Register No: 212222240039 </H3>
 <H3> Experiment 1</H3>
 <H3>DATE:</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
